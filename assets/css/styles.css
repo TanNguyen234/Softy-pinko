@@ -429,7 +429,7 @@
 
 /* Section Six */
 .section-six {
-    padding: 100px;
+    padding: 100px 0;
     background-color: #F2F2FE;
 }
 
@@ -585,7 +585,7 @@
 
 /* Section Eight */
 .section-eight {
-    padding: 100px;
+    padding: 100px 0;
 }
 
 .section-eight .inner-main {
