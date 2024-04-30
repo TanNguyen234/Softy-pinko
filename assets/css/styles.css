@@ -26,7 +26,6 @@
     top: 30px;
     left: 0px;
     right: 0px;
-    z-index: 100;
     height: 100px;
 }
 
@@ -115,7 +114,7 @@
 
 .section-one .inner-content {
     position: relative;
-    top: -200px;
+    top: -130px;
 }
 
 .section-one .inner-box {
